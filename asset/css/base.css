@@ -39,14 +39,3 @@ html {
   display: flex;
   flex-wrap: wrap;
 }
-/* .svg[Attributes Style] {
-    stroke: currentcolor;
-    fill: currentcolor;
-    stroke-width: 0;
-    color: rgb(199, 199, 199);
-    height: 14;
-    width: 14;
-}
-.svg:not(:root) {
-    overflow: hidden;
-} */
